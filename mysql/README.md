@@ -92,6 +92,9 @@ Execute os comandos abaixo, dentro do MYSQL:
 // 'root' se o seu usuário chamar root
 sudo mysql -u root -p
 ```
+
+```
 SET GLOBAL validate_password.policy=LOW;
+```
 
 #### :warning: Vale ressaltar que em algumas máquinas os passos não dão certo :disappointed: então suba os requisitos para serem avaliados no GitHub :+1: :warning:

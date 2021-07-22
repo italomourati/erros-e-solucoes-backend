@@ -1,3 +1,3 @@
 # erros-e-solucoes-backend
 
-1. MYSQL [a relative link](path%20with%20spaces/mysql/readme.md)
+1. MYSQL [a relative link](https://github.com/italomourati/erros-e-solucoes-backend/tree/main/mysql)
